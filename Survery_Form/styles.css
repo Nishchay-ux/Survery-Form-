@@ -1,0 +1,67 @@
+body {
+    background-image: linear-gradient(
+      115deg,
+      rgba(58, 58, 158, 0.8),
+      rgba(136, 136, 206, 0.7)),
+      url(background-img-new.png);
+      color: white;
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 20px;
+      margin: 30px auto;
+}
+
+.survey-form {
+  background-color: rgba(0,0,0,0.7);
+  margin: 40px auto 0 auto;
+  max-width: 700px;
+  height:100%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+fieldset {
+  border: none;
+}
+
+label{
+  text-align: left;
+  display: block;
+  margin: 10px auto;
+}
+
+legend {
+  text-align: left;
+  margin: 5px 0;
+}
+
+input , select , textarea {
+  width: 100%;
+  min-height: 30px;
+  border-radius: 3px;
+  border: none;
+  font-size: 16px;
+  padding:0.5rem;
+  box-sizing: border-box;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  transform: scale(1.4);
+  vertical-align: middle;
+  margin-bottom: 3px;
+}
+
+.inline {
+  vertical-align: middle;
+  margin: 0 0.5em 0 0;
+  width: unset;
+}
+
+.submit-button {
+  background-color: #37af65;
+  border: 3px solid white;
+  color: white;
+  height: 35px;
+  max-width: 300px;
+  margin-bottom: 20px;
+}
