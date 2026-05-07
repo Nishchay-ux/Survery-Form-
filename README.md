@@ -22,9 +22,8 @@ The goal of the project was to practice basic web development concepts by creati
 - Styling forms with CSS
 - Improving layout and spacing
 
-## How to Run
-1. Download or clone the repository
-2. Open `index.html` in a browser
+## Live Demo
+https://nishchay-ux.github.io/Survery-Form/
 
 ## Project Status
 Completed as part of FreeCodeCamp Responsive Web Design certification
