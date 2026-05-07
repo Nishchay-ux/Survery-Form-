@@ -26,4 +26,4 @@ The goal of the project was to practice basic web development concepts by creati
 https://nishchay-ux.github.io/Survery-Form/
 
 ## Project Status
-Completed as part of FreeCodeCamp Responsive Web Design certification
+Completed as part of FreeCodeCamp Responsive Web Design certification.
